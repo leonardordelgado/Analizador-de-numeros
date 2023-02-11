@@ -1,0 +1,31 @@
+body{
+    background: black;
+    color: white;
+    font: normal 15pt arial;
+}
+
+header{
+    text-align: center;
+}
+section{
+    background: white;
+    border-radius: 15px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow:  10px 5px 10px rgba(0, 0, 0, 0.363); 
+    text-align:left;
+}
+section p {
+    color: black;
+}
+select{
+    width: 170px;
+}
+#res{
+    color: black;
+}
+footer{
+    color: white;
+    text-align: center;
+}
